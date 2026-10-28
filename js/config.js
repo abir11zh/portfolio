@@ -1,0 +1,1 @@
+const siteConfig={name:"Abir Zahraoui",location:"Kénitra, Morocco",email:"abirzahraoui64@gmail.com",phoneDisplay:"+212 631 07 2583",phoneLink:"tel:+212631072583",github:"https://github.com/abir11zh",linkedin:"https://www.linkedin.com/in/abir-zahraoui-33672b269",portrait:"assets/images/abir-portrait.png",cvPath:"assets/documents/Abir_Zahraoui_CV.pdf"};
