@@ -29,7 +29,7 @@ Asset paths are relative for repository-subpath hosting. No backend or API crede
 - Contact configuration: `js/config.js`
 - Project descriptions and details: `js/main.js`
 
-The project gallery and detail dialogs use the supplied project-preview images, optimized as WebP in `assets/images/projects/`. The CyberDetect and CareerSVM notes clarify that dashboard figures shown in those previews are not treated as validated model benchmarks. The five project source links are connected individually to the supplied DataPilot AI, ChurnIQ, CyberDetect AI, CareerSVM AI, and Smart Traffic Controller repositories. CareerSVM AI replaces AgriSmart to match the supplied five-project repository list. ChurnIQ benchmark metrics and the recall-focused recommendation come from its repository README. The About section offers the supplied English and French photo CVs as separate downloads.
+The project gallery and detail dialogs use the supplied project-preview images, optimized as WebP in `assets/images/projects/`. The CyberDetect and CareerSVM notes clarify that dashboard figures shown in those previews are not treated as validated model benchmarks. The five project source links are connected individually to the supplied DataPilot AI, ChurnIQ, CyberDetect AI, CareerSVM AI, and Smart Traffic Controller repositories. CareerSVM AI replaces AgriSmart to match the supplied five-project repository list. ChurnIQ benchmark metrics and the recall-focused recommendation come from its repository README. The combined home/profile section offers the supplied English and French photo CVs as separate downloads alongside contact details.
 
 ## Features
 

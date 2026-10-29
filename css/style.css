@@ -90,3 +90,8 @@ figure.dialog-preview{display:flex;align-items:center;justify-content:center;pos
 @media(max-width:600px){figure.dialog-preview{min-height:155px;max-height:340px}.dialog-preview img{max-height:340px}.preview-thumb{flex-basis:84px;height:56px}.opportunity-note{justify-content:center;font-size:10px}}
 
 .cv-downloads{display:flex;flex-wrap:wrap;gap:10px;margin-top:8px}.cv-downloads .button{padding:10px 16px}
+
+/* Keep the introduction, contact details, and CV downloads together in one profile section. */
+.hero-profile{margin:22px 0 4px;padding:16px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}.hero-profile .quick-contacts{display:flex;flex-wrap:wrap;gap:12px 22px;margin:0 0 15px}.hero-profile .quick-contacts a{gap:8px;font-size:10px}.hero-profile .contact-icon{width:30px;height:30px;font-size:14px}.hero-profile .quick-contacts small{font-size:8px}.hero-profile .cv-downloads{display:flex;gap:10px}.hero-profile .button{padding:9px 15px;font-size:10px}.hero .github-link{margin-top:12px}
+@media(max-width:760px){.hero-profile{margin-top:20px;text-align:left}.hero-profile .quick-contacts{display:grid;grid-template-columns:1fr 1fr;gap:10px}.hero-profile .quick-contacts a:last-child{grid-column:1/-1}.hero-profile .cv-downloads{justify-content:center}.hero .github-link{margin-top:15px}}
+@media(max-width:480px){.hero-profile .quick-contacts{grid-template-columns:1fr}.hero-profile .quick-contacts a:last-child{grid-column:auto}.hero-profile .cv-downloads{flex-wrap:wrap}}
